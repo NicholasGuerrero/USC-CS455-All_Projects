@@ -1,0 +1,9 @@
+Please enter initial arrangement of books followed by newline:
+[2, 9, 9, 11, 18, 23, 50] 0 0
+Type pick <index> or put <height> followed by newline. Type end to exit.
+[2, 9, 9, 9, 11, 18, 23, 50] 3 3
+[2, 9, 9, 9, 11, 11, 18, 23, 50] 7 10
+[2, 9, 9, 11, 11, 18, 23, 50] 5 15
+[9, 9, 11, 11, 18, 23, 50] 1 16
+[9, 9, 11, 11, 11, 18, 23, 50] 5 21
+Exiting Program.
